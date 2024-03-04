@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: none
+title: CV
 permalink: /cv/
-title: cv
+description: #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
 ---
+
+<iframe src="/assets/pdf/Hiba_Ahsan_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+ [[PDF]](/assets/pdf/Hiba_Ahsan_CV.pdf)
