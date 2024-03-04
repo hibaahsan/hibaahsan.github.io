@@ -2,6 +2,7 @@
 layout: post
 date: 2023-06-24 00:00:00-0000
 inline: true
+related_posts: false
 ---
 
 Presented our work, [On the Difficulty of Disentangling Race in Representations of Clinical Notes], at  “I Can’t Believe It’s Not Better” Lightning Talks, <a href="https://www.chilconference.org/index.html">CHIL</a> 2023.
