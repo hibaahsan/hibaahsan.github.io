@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at Northeastern University in the Khoury College of Computer Sciences, advised by <a href="https://www.byronwallace.com/">Byron Wallace</a>. I work in the clinical natural language processing domain. My research looks into interpretability of LLMs in healthcare.
+I am a PhD student at Northeastern University in the Khoury College of Computer Sciences, advised by <a href="https://www.byronwallace.com/">Byron Wallace</a>. I work in the clinical natural language processing domain. My research looks into evaluating LLMs in healthcare and better understanding their problematic behaviors.
 
 I graduated with a Masters in Computer Science from UMass Amherst in 2023. Prior to Masters, I was a Research Engineer in the Advertising team at <a href="https://www.microsoft.com/en-in/msidc/default.aspx">Microsoft IDC</a> where I worked on improving the relevance of sponsored search results. I hold a Bachelors in Information Technology from the National Institute of Technology Karnataka, India.
 
